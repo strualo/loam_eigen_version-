@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/fansa/catkin_ws/src/loam_velodyne/cmake-build-debug/devel/setup.sh
